@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MyNotes-React/static/css/main.d7acada2.chunk.css",
+    "main.js": "/MyNotes-React/static/js/main.ed225f7d.chunk.js",
+    "main.js.map": "/MyNotes-React/static/js/main.ed225f7d.chunk.js.map",
+    "runtime-main.js": "/MyNotes-React/static/js/runtime-main.91de959c.js",
+    "runtime-main.js.map": "/MyNotes-React/static/js/runtime-main.91de959c.js.map",
+    "static/js/2.f857c0b7.chunk.js": "/MyNotes-React/static/js/2.f857c0b7.chunk.js",
+    "static/js/2.f857c0b7.chunk.js.map": "/MyNotes-React/static/js/2.f857c0b7.chunk.js.map",
+    "index.html": "/MyNotes-React/index.html",
+    "precache-manifest.7d35e40a9f30c5738896cec740a9294c.js": "/MyNotes-React/precache-manifest.7d35e40a9f30c5738896cec740a9294c.js",
+    "service-worker.js": "/MyNotes-React/service-worker.js",
+    "static/css/main.d7acada2.chunk.css.map": "/MyNotes-React/static/css/main.d7acada2.chunk.css.map",
+    "static/js/2.f857c0b7.chunk.js.LICENSE.txt": "/MyNotes-React/static/js/2.f857c0b7.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/MyNotes-React/static/media/logo.96a95536.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91de959c.js",
+    "static/js/2.f857c0b7.chunk.js",
+    "static/css/main.d7acada2.chunk.css",
+    "static/js/main.ed225f7d.chunk.js"
+  ]
+}
